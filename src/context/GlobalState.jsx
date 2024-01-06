@@ -6,4 +6,4 @@ const GlobalProvider = () => {
   )
 }
 
-export default GlobalProvider
+export default GlobalProvider;
